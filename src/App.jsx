@@ -40,8 +40,18 @@ function App() {
 
           <div className="mb-6">
             <h3 className="text-xl font-semibold">Ebay Test Automation</h3>
-            <p className="mb-2">Ebay Automation using WebdriverIO with Cucumber. Created reusable page objects and integrated the tests with GitHub Actions for CI.</p>
+            <p className="mb-2">Ebay Automation using WebdriverIO with Cucumber. Created reusable page objects and integrated the tests with GitHub Actions for CI.
+            </p>
             <p><a href="https://github.com/fakhrezasusilos/ebay" className="text-blue-600 underline">View on GitHub</a></p>
+            <div className="mt-4">
+              <iframe width="100%" height="315" src="https://www.youtube.com/embed/rdwmSrEXbH8" title="Cucumber report HTML" frameBorder="0" allowFullScreen></iframe>
+            </div>
+          </div>
+
+          <div className="mb-6">
+            <h3 className="text-xl font-semibold">Saucedemo Test Automation</h3>
+            <p className="mb-2">Saucedemo Automation using WebdriverIO with Cucumber. Created reusable page objects and integrated the tests with GitHub Actions for CI.</p>
+            <p><a href="https://github.com/fakhrezasusilos/saucedemo_webdriverIO" className="text-blue-600 underline">View on GitHub</a></p>
             <div className="mt-4">
               <iframe width="100%" height="315" src="https://www.youtube.com/embed/rdwmSrEXbH8" title="Cucumber report HTML" frameBorder="0" allowFullScreen></iframe>
             </div>
@@ -74,15 +84,15 @@ function App() {
 
       <footer className="text-center p-6 text-sm text-gray-500">
         &copy; 2025 Fakhreza Akbar Susilo | QA Engineer Portfolio
-      
-      <button
-        onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-        className="fixed bottom-6 right-6 bg-[#2c3e50] text-white p-3 rounded-full shadow-lg hover:bg-[#34495e] transition"
-        aria-label="Back to Top"
-      >
-        ↑
-      </button>
-    </footer>
+
+        <button
+          onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+          className="fixed bottom-6 right-6 bg-[#2c3e50] text-white p-3 rounded-full shadow-lg hover:bg-[#34495e] transition"
+          aria-label="Back to Top"
+        >
+          ↑
+        </button>
+      </footer>
 
     </div>
   );
