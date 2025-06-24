@@ -65,7 +65,7 @@ function App() {
 
           <div className="mb-6">
             <h3 className="text-xl font-semibold">Bug Report Samples</h3>
-            <img src="assets/Screenshot_2025-06-16_at_21.10.01.png" alt="Tokopedia Bug Report" className="rounded shadow mt-2" />
+            <img src="/assets/Screenshot_2025-06-16_at_21.10.01.png" alt="Tokopedia Bug Report" className="rounded shadow mt-2" />
           </div>
         </section>
 
