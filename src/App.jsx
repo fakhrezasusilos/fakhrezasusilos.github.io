@@ -44,7 +44,7 @@ function App() {
             </p>
             <p><a href="https://github.com/fakhrezasusilos/ebay" className="text-blue-600 underline">View on GitHub</a></p>
             <div className="mt-4">
-              <iframe width="100%" height="315" src="https://www.youtube.com/embed/rdwmSrEXbH8" title="Cucumber report HTML" frameBorder="0" allowFullScreen></iframe>
+              <iframe width="100%" height="315" src="https://www.youtube.com/embed/T4iPaD7iByw" title="Ebay Automation Tests" frameBorder="0" allowFullScreen></iframe>
             </div>
           </div>
 
@@ -53,7 +53,7 @@ function App() {
             <p className="mb-2">Saucedemo Automation using WebdriverIO with Cucumber. Created reusable page objects and integrated the tests with GitHub Actions for CI.</p>
             <p><a href="https://github.com/fakhrezasusilos/saucedemo_webdriverIO" className="text-blue-600 underline">View on GitHub</a></p>
             <div className="mt-4">
-              <iframe width="100%" height="315" src="https://www.youtube.com/embed/rdwmSrEXbH8" title="Cucumber report HTML" frameBorder="0" allowFullScreen></iframe>
+              <iframe width="100%" height="315" src="https://www.youtube.com/embed/hKaHg6F4atE" title="Saucedemo Automation Tests" frameBorder="0" allowFullScreen></iframe>
             </div>
           </div>
 
