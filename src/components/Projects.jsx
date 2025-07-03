@@ -23,7 +23,7 @@ const Projects = () => {
       </div>
 
       <div className="mb-6">
-        <h3 className="text-xl font-semibold">Manual Test Case: DeckFlo</h3>
+        <h3 className="text-xl font-semibold">Manual Test Case: </h3>
         <p className="mb-2">Created detailed manual test cases.</p>
         <p><a href="https://docs.google.com/spreadsheets/d/12Wr68-4rx0xC81W174gQsS3WhQOL2nFrQUny5ieAzOA/edit?usp=sharing" className="text-blue-600 underline">View Test Case (Google Drive)</a></p>
       </div>
