@@ -15,10 +15,19 @@ const Projects = () => {
 
       <div className="mb-6">
         <h3 className="text-xl font-semibold">Saucedemo Test Automation</h3>
-        <p className="mb-2">Saucedemo Automation using WebdriverIO with Cucumber. Created reusable page objects and integrated the tests with GitHub Actions for CI.</p>
+        <p className="mb-2">A UI automation testing project for SauceDemo built using WebdriverIO and CucumberJS, following the Page Object Model (POM) architecture.</p>
         <p><a href="https://github.com/fakhrezasusilos/saucedemo_webdriverIO" className="text-blue-600 underline">View on GitHub</a></p>
         <div className="mt-4">
           <iframe width="100%" height="315" src="https://www.youtube.com/embed/hKaHg6F4atE" title="Saucedemo Automation Tests" frameBorder="0" allowFullScreen></iframe>
+        </div>
+      </div>
+
+      <div className="mb-6">
+        <h3 className="text-xl font-semibold">Saucedemo with Playwright Test Automation</h3>
+        <p className="mb-2">A web UI automation testing project for SauceDemo using Playwright with Page Object Model (POM) and reusable helper functions for better maintainability.</p>
+        <p><a href="https://github.com/fakhrezasusilos/saucedemo-playwright" className="text-blue-600 underline">View on GitHub</a></p>
+        <div className="mt-4">
+          <iframe width="100%" height="315" src="https://www.youtube.com/embed/yzW9GNl8Mxw" title="Saucedemo with PlaywrightAutomation Tests" frameBorder="0" allowFullScreen></iframe>
         </div>
       </div>
 
