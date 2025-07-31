@@ -23,11 +23,11 @@ const Projects = () => {
       </div>
 
       <div className="mb-6">
-        <h3 className="text-xl font-semibold">Saucedemo with Playwright Test Automation</h3>
+        <h3 className="text-xl font-semibold">Saucedemo with Playwright and Allure Report Test Automation</h3>
         <p className="mb-2">A web UI automation testing project for SauceDemo using Playwright with Page Object Model (POM) and reusable helper functions for better maintainability.</p>
-        <p><a href="https://github.com/fakhrezasusilos/saucedemo-playwright" className="text-blue-600 underline">View on GitHub</a></p>
+        <p><a href="https://github.com/fakhrezasusilos/saucedemo_playwright_allure" className="text-blue-600 underline">View on GitHub</a></p>
         <div className="mt-4">
-          <iframe width="100%" height="315" src="https://www.youtube.com/embed/yzW9GNl8Mxw" title="Saucedemo with PlaywrightAutomation Tests" frameBorder="0" allowFullScreen></iframe>
+          <iframe width="100%" height="315" src="https://www.youtube.com/embed/TtatnB5zlGs" title="Saucedemo with Playwright and Allure report Automation Tests" frameBorder="0" allowFullScreen></iframe>
         </div>
       </div>
 
