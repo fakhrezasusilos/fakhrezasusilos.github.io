@@ -40,8 +40,8 @@ const experience = [
     location: "Yogyakarta, Indonesia - On Site",
     startDate: "October 2018",
     endDate: "November 2017",
-    description: "Perform Automation Testing on Mobile Games android based on test case",
-    techStack: "Google Spreadsheet,Office provided tools"
+    description: "Perform Automation Testing on Mobile Games android using Airtest and Python. Also do Manual Testing when needed.",
+    techStack: "Google Spreadsheet,Airtest, Python"
   },{
     id: 5,
     icon: "/assets/gameloft_logo.png",

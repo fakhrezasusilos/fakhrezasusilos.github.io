@@ -48,6 +48,7 @@ const NavLinks = ({ onClick }) => (
   <>
     <a href="#about" onClick={onClick} className="text-[#2c3e50] hover:text-blue-600">About</a>
     <a href="#experience" onClick={onClick} className="text-[#2c3e50] hover:text-blue-600">Experience</a>
+    <a href="#achievement" onClick={onClick} className="text-[#2c3e50] hover:text-blue-600">Achievement</a>
     <a href="#skills" onClick={onClick} className="text-[#2c3e50] hover:text-blue-600">Skills</a>
     <a href="#projects" onClick={onClick} className="text-[#2c3e50] hover:text-blue-600">Projects</a>
     <a href="#resume" onClick={onClick} className="text-[#2c3e50] hover:text-blue-600">Resume</a>

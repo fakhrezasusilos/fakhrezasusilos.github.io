@@ -9,6 +9,7 @@ import Projects from "./components/Projects.jsx";
 import Resume from "./components/Resume.jsx";
 import Contact from "./components/Contacts.jsx";
 import Footer from "./components/Footers.jsx";
+import Achievement from "./components/Achievement.jsx";
 
 function App() {
   return (
@@ -21,11 +22,11 @@ function App() {
 
         <About />
         <Experience />
+        <Achievement />
         <Skills />
         <Projects />
         <Resume />
         <Contact />
-        
       </main>
 
       <Footer />
